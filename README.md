@@ -1,1 +1,1 @@
-# bizthon-nft-vr-explorer
+# Bizthon NFT VR Explorer
